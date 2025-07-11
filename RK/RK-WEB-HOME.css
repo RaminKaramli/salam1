@@ -7,10 +7,10 @@
 body {
   margin: 0 auto;
   /* background-color: rgb(255, 255, 255); */
-  font-family: "Roboto", sans-serif;
   /* max-width: 1500px; */
   background-color: #faf8f0;
   height: 100vh;
+  font-family: "Roboto", sans-serif;
 }
 
 /** ================== HEADER ================== **/
